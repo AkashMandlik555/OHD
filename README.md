@@ -43,7 +43,7 @@ $ flask run
 ```
  
 ## Developers
-[Rohan Patankar](https://github.com/rohanpatankar926) - ```Machine Learning & Deployment```
+[Akash Mandlik](https://github.com/AkashMandlik555) - ```Machine Learning & Deployment```
 
 [Apsara Budhathoki](https://github.com/ApsaraBudhathoki) - ```Web Design & Development```
 
