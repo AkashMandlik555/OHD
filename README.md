@@ -45,10 +45,6 @@ $ flask run
 ## Developers
 [Akash Mandlik](https://github.com/AkashMandlik555) - ```Machine Learning & Deployment```
 
-[Apsara Budhathoki](https://github.com/ApsaraBudhathoki) - ```Web Design & Development```
-
-[Nishant Banjade](https://github.com/Nix-code) - ```Machine Learning & Deployment```
-
 ## Licence
 
 [MIT Licence](https://github.com/Nix-code/Onsite-Health-Diagnostic-OHD/blob/main/LICENSE)
